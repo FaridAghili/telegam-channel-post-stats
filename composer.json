@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paquettg/php-html-parser": "^2.2",
+        "nesbot/carbon": "^2.32"
+    }
+}
